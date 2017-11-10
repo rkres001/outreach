@@ -1,6 +1,6 @@
 # Outreach
 
-This is an experiment.  The goal is to deliver resources for education and outreach resources on the Chalcidoidea via a Jekyll website using simple Markdown documents as content.
+This is an experiment.  The goal is to deliver resources for education and outreach on the Chalcidoidea via a Jekyll website using simple Markdown documents as content.
 
 # Run locally
 

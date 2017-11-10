@@ -1,7 +1,7 @@
 ---
 
-title: Education 
-permalink: /education
+title: Outreach 
+permalink: /outreach
 layout: default 
 ---
 

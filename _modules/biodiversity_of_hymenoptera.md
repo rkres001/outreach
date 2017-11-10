@@ -5,11 +5,17 @@ target_audience: 9th-12th grade
 estimated_time: 1 hour
 tags: presentation, experiment, field work
 slides: 
-  - slide: 'name_of_slide'
-  - slide: 'name_of_next_slide'
+  - slide: '/assets/images/slides/biodiversity/Slide01.png'
+    caption_title: 'Caption title!'
+    caption: 'Welcome to the presentation about biodiversity'
+  - slide: '/assets/images/slides/biodiversity/Slide02.png'
+  - slide: '/assets/images/slides/biodiversity/Slide03.png'
+  - slide: '/assets/images/slides/biodiversity/Slide04.png'
+  - slide: '/assets/images/slides/biodiversity/Slide05.png'
+  - slide: '/assets/images/slides/biodiversity/Slide06.png'
 experiments:
   - experiment: 'name_of_experiment'
-layout: module
+layout: presentation 
 ---
 
 # Introduction

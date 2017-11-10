@@ -22,7 +22,7 @@
     {% assign current = page.url | downcase | split: '/' %}
 
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-      <a class="navbar-brand" href="#">Chalcids 101</a>
+      <a class="navbar-brand" href="/">Chalcids 101</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -33,18 +33,19 @@
             <a class="nav-link" href="/">Home<span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link {% if current[1] == 'education' %}active{% endif %}" href="/education/">Education</a>
+            <a class="nav-link {% if current[1] == 'education' %}active{% endif %}" href="{{'education' | absolute_url}}">Education</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link {% if current[1] == 'outreach' %}active{% endif %}" href="/outreach/">Outreach</a>
+            <a class="nav-link {% if current[1] == 'outreach' %}active{% endif %}" href="{{'outreach' | absolute_url}}">Outreach</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link {% if current[1] == 'diversity' %}active{% endif %}" href="/diversity/">Diversity</a>
+            <a class="nav-link {% if current[1] == 'diversity' %}active{% endif %}" href="{{'diversity' | absolute_url}}">Diversity</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link {% if current[1] == 'about' %}active{% endif %}" href="/about/">About</a>
+            <a class="nav-link {% if current[1] == 'about' %}active{% endif %}" href="{{'about' | absolute_url}}">About</a>
           </li>
 
+          <!--
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Jump to</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
@@ -53,6 +54,7 @@
               <a class="dropdown-item" href="#">Something else here</a>
             </div>
           </li>
+          -->
         </ul>
 
         <form class="form-inline my-2 my-lg-0">
@@ -70,16 +72,17 @@
       <p>&copy; Chalcid collaborators, 2017. All material here is available under a CC-BY-NC destination.</p>
     </footer>
 
-    <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
-    <script src="{{'/node_modules/popper.js/dist/popper.min.js' | prepend: site.baseurl}}"></script>
-    <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
-
-<!--
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script> 
+    <!--
+      <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+      <script src="{{'/node_modules/popper.js/dist/popper.min.js' | prepend: site.baseurl}}"></script>
+      <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
     -->
-    {% include analytics.html %}
+
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script> 
+    
+      {% include analytics.html %}
   </body>
 
 </html>

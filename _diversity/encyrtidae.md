@@ -17,7 +17,7 @@ Encyrtids are the coolest animals in the world!
 
 # Biology 
 
-And some biology.
+And some biology.  They lay their eggs in things.
 
 # Economic Importance
 Unknown.

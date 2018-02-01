@@ -3,12 +3,12 @@ layout: default
 ---
 
 <div class="card bg-light mb-3" >
-  <div class="card-header">Header</div>
+  <div class="card-header">Taxon page</div>
   <div class="card-body">
     <h1 class="card-title">{{page.title}}</h1>
     <div class="card-text">{{ content }}
       {% if page.footer_image %}
-      <img class="img-thumbnail" src="/assets/images/{{page.footer_image}}" alt="Image for footer" >
+      <img class="img-thumbnail" src="{{page.footer_image}}" alt="Image for footer" >
       {% endif %}
     </div>
   </div>

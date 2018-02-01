@@ -7,7 +7,7 @@ permalink: /diversity
 
   {% for t in site.diversity %}
   <div class="card" style="width: 20rem;">
-    <img class="card-img-top" src="/assets/images/{{t.card_image}}" alt="Image for {{t.title}}">
+    <img class="card-img-top" src="{{t.card_image}}" alt="Image for {{t.title}}">
     <div class="card-body">
       <h4 class="card-title">{{t.title}}</h4>
       <p class="card-text">Written by {{ t.authors }}{% if t.modified %}, last updated {{ t.modified }}{% endif %}</p>

@@ -1,5 +1,5 @@
 ---
-title: Encyrtidae 
+title: Family Encyrtidae 
 date: 2017-11-06 14:24 
 modified: 2017-11-06 14:24 
 tags: 
@@ -10,6 +10,8 @@ card_image: http://sfg.taxonworks.org/system/images/image_files/000/613/913/medi
 footer_image: 
 layout: taxon_page
 ---
+
+![lead](http://sfg.taxonworks.org/system/images/image_files/000/613/916/original/img_0_1.png)
 
 ## Introduction
 

@@ -4,21 +4,24 @@ title: About
 permalink: /about/
 ---
 
+# About 
 
-# Header
-
-You can edit this page!
+__TODO, Mission-statement-esqe__
 
 ## This is a subheader
 
-_This is italics_, *this is bold*.
+# Citing
 
-[this is a hyperlink](http://taxonoworks.org) 
+__TODO__
 
+# Contributors
+
+In addition to those who have made commits directly to this repository for this website, we are thankful for contributing from the following (alphabetical order):
+
+* _Last name, first name. Institution_
 
 # Support
 
-
-# Contributing
+_This material is based upon work supported by the National Science Foundation under Grants DEB-15-55053. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation._
 
 

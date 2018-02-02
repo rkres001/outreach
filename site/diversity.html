@@ -5,17 +5,22 @@ permalink: /diversity
 
 <div class="container">
 
-  {% for t in site.diversity %}
-  <div class="card" style="width: 20rem;">
-    <img class="card-img-top" src="{{t.card_image}}" alt="Image for {{t.title}}">
-    <div class="card-body">
-      <h4 class="card-title">{{t.title}}</h4>
-      <p class="card-text">Written by {{ t.authors }}{% if t.modified %}, last updated {{ t.modified }}{% endif %}</p>
-      <a href="{{t.url}}.html" class="btn btn-primary">Go</a>
-    </div>
-  </div>
+  <div class="card-deck">
+    {% for t in site.diversity %}
 
-  {% endfor %}
+    <div class="card">
+      <img class="card-img-top" src="{{t.card_image}}" alt="Image for {{t.title}}">
+      <div class="card-body">
+        
+        <h5 class="card-title">{{t.title}}</h5>
+        <p class="card-text">Written by {{ t.authors }}.</p>
+        <a href="{{t.url}}.html" class="btn btn-primary">Go</a>
+        <p class="card-text"><small class="text-muted">{% if t.modified %}Last updated {{ t.modified }}{% endif %}</small></p>
+      </div>
+    </div>
+
+    {% endfor %}
+  </div>
 
   <hr>
 </div>

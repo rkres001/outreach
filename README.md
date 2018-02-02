@@ -19,7 +19,7 @@ In your browser goto http://127.0.0.1:4000/.
 
 This is a [Jekyll](https://jekyllrb.com/) website that uses [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) for style. 
 
-When the server is running (above) then editing any file automatically triggers a rebuild of the site.
+When the Jekyll server is running then editing any file automatically triggers a rebuild of the site.
 
 ## Adding content with Markdown
 
@@ -37,14 +37,16 @@ To add a module add a Markdown formatted file to the `_modules` directory.  Ulti
 
 ... coming, will follow Education pattern 
 
-## Images
+## Assets (images, documents, presentations) 
 
-Add a image (no larger that 1mb please!) to `assets/images`.
+See [Contributing](CONTRIBUTING.md) for how to contribute binary files that will be content for the site.
 
 # Updating the repository
 
 Commit and push your changes using Git. 
 
 There are many tutorials around, e.g. [1](https://try.github.io/levels/1/challenges/1), [2](https://help.github.com/articles/git-and-github-learning-resources/).
+
+# Learn more
 
 You're almost certainly somewhere where a wonderful [SoftwareCarpentry](https://software-carpentry.org/) course is available, it will be more than enough for your needs here. 

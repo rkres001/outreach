@@ -4,8 +4,10 @@ layout: default
 
 <div class="card bg-light mb-3" >
   <div class="card-header">Featured Chalcidoids</div>
+   <img class="card-img-top" src="{{page.top_image}}" alt="Card image cap">
   <div class="card-body">
-    <h1 class="card-title">{{page.title}}</h1>
+   
+    <h4 class="card-title">{{page.title}}</h4>
     <div class="card-text">{{ content }}
       {% if page.footer_image %}
       <img class="img-thumbnail" src="{{page.footer_image}}" alt="Image for footer" >

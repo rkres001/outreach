@@ -6,3 +6,12 @@ layout: default
 {{content}}
 </div>
 
+<nav>
+  {% if page.last_page %}
+  <a href="{{page.last_page}}" class="btn btn-primary">Previous</a>
+  {% endif %}
+
+  {% if page.next_page %}
+  <a href="{{page.next_page}}" class="btn btn-primary">Next</a>
+  {% endif %}
+</nav>

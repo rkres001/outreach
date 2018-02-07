@@ -38,7 +38,7 @@ collections:
           type: my_collection
         values:
           layout: taxon_page
-  modules:
+  education:
     output: true
     permalink: /:collection/:name
   outreach:

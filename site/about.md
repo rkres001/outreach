@@ -8,7 +8,7 @@ permalink: /about/
 
 __TODO, Mission-statement-esqe__
 
-## This is a subheader
+The project is a part of an emerging effort to unify chalcid-related science under [chalcid.org](http://chalcid.org).
 
 # Citing
 
@@ -19,6 +19,10 @@ __TODO__
 In addition to those who have made commits directly to this repository for this website, we are thankful for contributing from the following (alphabetical order):
 
 * _Last name, first name. Institution_
+
+# External links
+
+The use of external links does not equate to their endorsement. 
 
 # Support
 

@@ -20,6 +20,12 @@ In addition to those who have made commits directly to this repository for this 
 
 * _Last name, first name. Institution_
 
+# Contributing
+
+* Feedback, content, suggestions, all welcome.
+* This is a Github pages website.  If you have Git skills you [know what to do](https://github.com/chalcid/outreach).
+* You can use the [issue tracker on github](https://github.com/chalcid/outreach/issues) to submit feedback.   
+
 # External links
 
 The use of external links does not equate to their endorsement. 

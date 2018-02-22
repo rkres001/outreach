@@ -2,11 +2,12 @@
 title: Pan trap experiment
 summary: Collect chalcids like the experts. 
 target_audience: 9th-12th grade
-estimated_time: 1 hour
+estimated_time: 2-4 hours
 tags: experiment field-work
-card_image: http://sfg.taxonworks.org/system/images/image_files/000/613/924/medium/ypt.png
+card_image: http://sfg.taxonworks.org/system/images/image_files/000/613/931/original/traps.jpg
 is_index_card: true
-layout: module
+next_page: /education/ypt-experiment.html
+layout: slide
 ---
 
 

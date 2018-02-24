@@ -6,7 +6,7 @@ tags:
 authors: Jim Woolley, Devon Eldridge
 family: Leucospidae
 distribution: Cosmopolitan
-card_image: /assets/images/leucospis_affinis.png
+card_image: http://sfg.taxonworks.org/system/images/image_files/000/613/923/medium/img_4_1.png
 footer_image: /assets/images/leucospis.png
 layout: taxon_page
 ---

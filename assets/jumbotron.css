@@ -8,7 +8,7 @@ body {
 
 .jumbotron-billboard .img {
   margin-bottom: 0px;
-  background: url("/assets/images/coin.png") center center;
+  background: url("http://sfg.taxonworks.org/system/images/image_files/000/613/934/original/coin.png") center center;
   width: 100%;
   height: 100%;
   background-size: cover;

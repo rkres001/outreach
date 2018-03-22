@@ -1,6 +1,6 @@
 ---
 title: Engineer a bee hotel 
-summary:  
+summary: Attract native bees!  
 target_audience: 9th-12th grade
 estimated_time: 1 hour
 tags: lesson_plan 

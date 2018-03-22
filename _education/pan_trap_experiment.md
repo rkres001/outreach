@@ -1,6 +1,6 @@
 ---
 title: Pan trap experiment
-summary: Collect chalcids like the experts. 
+summary: Collect chalcids like the experts. Opportunity for Project Based Learning and Citizen Science. 
 target_audience: 9th-12th grade
 estimated_time: 2-4 hours
 tags: experiment field-work

@@ -1,6 +1,6 @@
 ---
 title: Make a wasp hologram 
-summary: 
+summary: Turn your Smartphone into a 3D Hologram!
 target_audience: 9th-12th grade
 estimated_time: 1 hour
 tags: lesson-plan 

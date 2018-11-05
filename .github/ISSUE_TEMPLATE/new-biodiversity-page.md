@@ -1,6 +1,7 @@
 ---
 name: New Biodiversity Page
 about: Template for a new taxon page
+
 ---
 
 ```
@@ -53,4 +54,3 @@ You can embedd images from the chalcid TaxonWorks project like this:
 
 * [-EXAMPLE LINK TEXT-](-EXAMPLE LINK-)
 * [_Another link, with italics_](https://www.youtube.com/watch?v=BQaWbDFxzyE)
-

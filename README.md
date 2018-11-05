@@ -1,52 +1,37 @@
 # Outreach
 
-This is an experiment.  The goal is to deliver resources for education and outreach on the Chalcidoidea via a Jekyll website using simple Markdown documents as content.
+This is the source repository for the Chalcid Outreach website.  
 
-# Run locally
+## Contributing.
 
-Assumes you have Ruby, bundler installed.
+Our goal is to have you, the user of the website, become an active curator of this resource.
 
-```  
-git clone git@github.com:chalcid/outreach.git
-cd outreach
-bundle install
-bundle exec jekyll serve
-```
+_It is important to remember that all contributions will become CC-BY-NC content, do not contribute or propose something for which you do not have rights._
 
-In your browser goto http://127.0.0.1:4000/. 
+### Adding content through the issue tracker
 
-# Developing the website 
+This is the primary mechanism for adding pages of a specific type, i.e. those that follow a template.  You will have to have a [Github account](https://github.com/join) to add an issue.
 
-This is a [Jekyll](https://jekyllrb.com/) website that uses [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) for style. 
+* Open the [Issue tracker](https://github.com/chalcid/outreach/issues) and choose a template for the type of page you would like to add.
+* Follow the instructions in that template, replacing the text with your new content.  Do this to the best of your ability, it need not be perfect. 
+* Submit the issue, at this point the site curators may ask for clarification in the discussion of that issue, and may make minor tweaks to the page.
+* Once the page is finished the curators will move the content in the issue into a new file in this repository, and the page will become visible.  
+* The issue will then be closed.
 
-When the Jekyll server is running then editing any file automatically triggers a rebuild of the site.
+You can start editing a new template directly from these links:
 
-## Adding content with Markdown
+* [New Biodiversity Page](https://github.com/chalcid/outreach/issues/new?template=new-biodiversity-page.md)
 
-A majority of the content here is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+### Adding media content (images, files) in the TaxonWorks chalcid project
 
-### Taxon Pages
+_documentation in progress_
 
-To add a taxon page add a Markdown formatted file to the `_diversity` directory.
+* You'll need access to the `chalcid` project, email Matt or Nic for details.
 
-### Education modules
+### Suggesting a modification through the issue tracker.
 
-To add a module add a Markdown formatted file to the `_modules` directory.  Ultimately you will also add individual elements as well, where is yet to be determined.
+* Use the [Suggest modification](https://github.com/chalcid/outreach/issues/new?template=suggest-modification.md) template to suggest changes including adding or deleting content for an existing page, or requesting a change to the site.
 
-### Outreach
+### Modifying the website directly
 
-... coming, will follow Education pattern 
-
-## Assets (images, documents, presentations) 
-
-See [Contributing](CONTRIBUTING.md) for how to contribute binary files that will be content for the site.
-
-# Updating the repository
-
-Commit and push your changes using Git. 
-
-There are many tutorials around, e.g. [1](https://try.github.io/levels/1/challenges/1), [2](https://help.github.com/articles/git-and-github-learning-resources/).
-
-# Learn more
-
-You're almost certainly somewhere where a wonderful [SoftwareCarpentry](https://software-carpentry.org/) course is available, it will be more than enough for your needs here. 
+See [detailed instructions here](CONTRIBUTING.md).

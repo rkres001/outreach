@@ -3,21 +3,22 @@ name: New Biodiversity Page
 about: Template for a new taxon page
 ---
 
+
 ---
-title: Family Encyrtidae 
-date: 2017-11-06 14:24 
-modified: 2017-11-06 14:24 
-tags: 
-authors: Jim Woolley, Devon Eldridge
-family: Encyrtidae
-distribution: Cosmopolitan
-top_image: http://sfg.taxonworks.org/system/images/image_files/000/613/916/original/img_0_1.png
-card_image: http://sfg.taxonworks.org/system/images/image_files/000/613/913/medium/img_2_1.png
+title: -RANK-: -TAXON NAME-
+date: -YYYY-MM-DD-
+modified: -YYYY-MM-DD-
+tags: -TAG1-,-TAG2-
+authors: -FIRST_AUTHOR-,-SECOND AUTHOR-
+family: -FAMILY NAME-
+distribution: -TEXT, NOT YET USED- 
+top_image: -LIKE http://sfg.taxonworks.org/system/images/image_files/000/613/916/original/img_0_1.png -
+card_image: -LIKE http://sfg.taxonworks.org/system/images/image_files/000/613/913/medium/img_2_1.png -
 footer_image: 
 layout: taxon_page
 ---
 
-Update the values above, these values are used to build the website, including some of the navigation between pages, and things like headers etc.
+Instructions: delete this line and replace each -CAPITALIZED_WORD(S)- with your own values (removing surrounding dashes).  The values between `---` are metadata that get inserted into various places in the website, including navigation, headers, etc.
 
 ## Introduction
 
@@ -31,24 +32,24 @@ You can embedd images from the chalcid TaxonWorks project like this:
 
 ## Biology 
 
-Text on biology.
+-TEXT-
 
 ## Economic Importance
 
-Economic importance description here.  
+-TEXT-
 
 ## Examples
 
-### _Genus sp._
+### _-GENUS SP.-_
 
 ![Example image](short URL from TaxonWorks)
 
-Text description.
+-TEXT-
 
 ... Another example ...
 
 ## Links
 
-* [Example link to Youtube](https://www.youtube.com/watch?v=vMG-LWyNcAs)
+* [-EXAMPLE LINK TEXT-](-EXAMPLE LINK-)
 * [_Another link, with italics_](https://www.youtube.com/watch?v=BQaWbDFxzyE)
 

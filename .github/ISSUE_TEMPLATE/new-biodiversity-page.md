@@ -3,7 +3,7 @@ name: New Biodiversity Page
 about: Template for a new taxon page
 ---
 
-
+```
 ---
 title: -RANK-: -TAXON NAME-
 date: -YYYY-MM-DD-
@@ -17,6 +17,7 @@ card_image: -LIKE http://sfg.taxonworks.org/system/images/image_files/000/613/91
 footer_image: 
 layout: taxon_page
 ---
+```
 
 Instructions: delete this line and replace each -CAPITALIZED_WORD(S)- with your own values (removing surrounding dashes).  The values between `---` are metadata that get inserted into various places in the website, including navigation, headers, etc.
 

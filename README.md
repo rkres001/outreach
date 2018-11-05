@@ -22,15 +22,15 @@ You can start editing a new template directly from these links:
 
 * [New Biodiversity Page](https://github.com/chalcid/outreach/issues/new?template=new-biodiversity-page.md)
 
+### Suggesting a modification through the issue tracker.
+
+* Use the [Suggest modification](https://github.com/chalcid/outreach/issues/new?template=suggest-modification.md) template to suggest changes including adding or deleting content for an existing page, or requesting a change to the site.
+
 ### Adding media content (images, files) in the TaxonWorks chalcid project
 
 _documentation in progress_
 
 * You'll need access to the `chalcid` project, email Matt or Nic for details.
-
-### Suggesting a modification through the issue tracker.
-
-* Use the [Suggest modification](https://github.com/chalcid/outreach/issues/new?template=suggest-modification.md) template to suggest changes including adding or deleting content for an existing page, or requesting a change to the site.
 
 ### Modifying the website directly
 

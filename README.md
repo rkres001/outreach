@@ -1,6 +1,6 @@
 # Outreach
 
-This is the source repository for the Chalcid Outreach website.  
+This is the source repository for the [Chalcid Outreach](http://outreach.chalcid.org) website.  
 
 ## Contributing.
 

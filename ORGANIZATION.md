@@ -3,6 +3,19 @@
 
 This document describes how files and directories are organzied in this repository.
 
+## Summary
+
+Content contributed by users ends up in one of the followin directories. 
+
+_All files in these directories are canditates for changes directly from Github._
+
+* `_diversity/`
+* `_education/`
+* `_outreach/`
+* `site/` 
+
+## Detailed list
+
 *Legend:*
 
 * `!` technical files typically not edited by user contributor
@@ -32,14 +45,6 @@ This document describes how files and directories are organzied in this reposito
 * `site/` - HTML templates for specific parts of the website.  Cards, and pages are rendered inside these templates
 * ! `yarn.lock` - Javascript metadata. DO NOT MODIFY.
 
-* Summary:*
 
-Content contributed by users ends up in one of:
 
-* `_diversity/`
-* `_education/`
-* `_outreach/`
-* `site/` 
-
-_All files in these directories are canditates for changes directly from Github._
 

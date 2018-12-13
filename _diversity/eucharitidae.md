@@ -1,5 +1,5 @@
 ---
-title: Family: Eucharitidae
+title: Family- Eucharitidae
 date: 2018-12-07
 modified: 2018-12-07
 tags: ant parasitoid solenopsis pheidole fireant wasmannia chalcid Eucharitidae

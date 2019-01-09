@@ -28,9 +28,7 @@ You can start editing a new template directly from these links:
 
 ### Adding media content (images, files) in the TaxonWorks chalcid project
 
-_documentation in progress_
-
-* You'll need access to the `chalcid` project, email Matt or Nic for details.
+[See here.](IMAGES.md)
 
 ### Modifying the website directly
 

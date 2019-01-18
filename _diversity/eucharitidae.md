@@ -7,7 +7,7 @@ authors: John Heraty
 family: Eucharitidae
 distribution: worldwide 
 top_image: https://sfg.taxonworks.org/s/jtgofq
-card_image: https://sfg.taxonworks.org/s/8th4hm
+card_image: https://sfg.taxonworks.org/s/jtgofq
 footer_image: 
 layout: taxon_page
 ---

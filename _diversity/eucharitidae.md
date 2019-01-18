@@ -24,7 +24,7 @@ Where known, all Eucharitidae are parasitoids of the immature stages of ants. Eg
 
 Eggs are deposited onto or in plant tissue away from the host, and the mobile, sclerotized first-instar planidium that is responsible for gaining access to the ant nest. Foraging ants act as vectors to move the plandia into the ant colony. Planidia are likely transported by the ants in their infrabuccal pouch, and then transferred through trophyllaxis or by some other means to the host larva. In the nest, the planidium first attacks the host ant larva, but must complete its development on the host pupa. In Gollumiellinae, Oraseminae, and _Pseudometagea_ (Eucharitinae), the planidium burrows into the larval host and begins to feed and expand in size. In other Eucharitinae, the planidium feeds very little and remains attached to the external surface of their larval host. Upon pupation of the host, the planidium migrates to the ventral region of the host thorax. Development is completed on the host pupa, usually with only one parasitoid per host, but with as many as three per host if the host pupa is large enough. It is unlikely that parasitoids feed on more than one host. Both Gollumiellinae and Oraseminae develop on ants without a cocoon, whereas all Eucharitinae attack ants that pupate within a cocoon. Thus, pupation by the eucharitid is either within the open brood pile of ants without a cocoon, or within the cocoon of ants that have one. Escape from the ant nest may involve sequestration of cuticular hydrocarbons from the surrounding brood.
 
-<img src="https://sfg.taxonworks.org/s/mjh7i3">
+<img src="https://sfg.taxonworks.org/s/mjh7i3" width="100%"/>
 
 ## Economic Importance
 

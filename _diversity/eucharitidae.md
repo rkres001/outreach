@@ -6,7 +6,7 @@ tags: ant parasitoid solenopsis pheidole fireant wasmannia chalcid Eucharitidae
 authors: John Heraty
 family: Eucharitidae
 distribution: worldwide 
-top_image: https://sfg.taxonworks.org/s/jtgofq
+top_image: https://sfg.taxonworks.org/s/hvp4eu
 card_image: https://sfg.taxonworks.org/s/jtgofq
 footer_image: 
 layout: taxon_page

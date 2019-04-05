@@ -19,7 +19,7 @@ layout: taxon_page
 Trichogrammatidae are almost entirely parasitoids of insect eggs. They include some of the smallest insects known, and possess many extreme modifications associated with size reduction. The family is named after the characteristic rows of setae on the fore wing. Trichogrammatids are frequently released in large numbers to control insect pests, in part because egg parasitism ensures that attacked pests will not cause damage as larvae.
 
 ## Morphology and Behavior 
-<img src="https://sfg.taxonworks.org/s/v39bl6" alt="Megaphragma mymaripenne" width="100%"/>
+<img src="https://sfg.taxonworks.org/s/v39bl6" alt="Megaphragma mymaripenne" width="75%"/>
 ##### _Megaphragma mymaripenne_
 
 _Megaphragma_ is the smallest known trichogrammatid, being smaller than many single-celled organisms. Research conducted by Alexey Polilov indicates that nervous system in _Megaphragma_ is made up almost entirely of anucleate cells! Yet, they can fly and search for hosts capably.

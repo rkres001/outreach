@@ -32,6 +32,6 @@ Most trichogrammatids are considerably smaller than adults of their host species
 ## Photo credits
 
 All photographs were available for re-use on Wikimedia Commons:
-_Trichogramma dendrolimi_ was photographed by Victor Fursov.
-_Megaphragma mymaripenne_ was photographed by Alexey Polilov.
+_Trichogramma dendrolimi_ was photographed by Victor Fursov.<br>
+_Megaphragma mymaripenne_ was photographed by Alexey Polilov.<br>
 _Hydrophylita emporos_ was photographed by Yuan Tung Shih _et al_.

@@ -7,7 +7,7 @@ authors: Roger Burks
 family: Trichogrammatidae
 distribution: worldwide 
 top_image: 
-card_image: 
+card_image: https://sfg.taxonworks.org/s/8cxijp
 footer_image: 
 layout: taxon_page
 ---

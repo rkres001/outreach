@@ -27,7 +27,7 @@ _Megaphragma_ is the smallest known trichogrammatid, being smaller than many sin
 Most trichogrammatids are considerably smaller than adults of their host species. Multiple species are known to use a behavior known as phoresy, hitching a ride on another insect and leaving when near a host egg.
 
 <img src="https://sfg.taxonworks.org/s/8o1tqe" alt="Hydrophylita emporos" width="50%"/>
-<b><i>Hydrophylita emporos</i></b>
+<b><i>Hydrophylita emporos</i>, phoretic on a damselfly</b>
 
 ## Photo credits
 

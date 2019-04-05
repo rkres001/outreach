@@ -20,13 +20,14 @@ Trichogrammatidae are almost entirely parasitoids of insect eggs. They include s
 
 ## Morphology and Behavior 
 <img src="https://sfg.taxonworks.org/s/v39bl6" alt="Megaphragma mymaripenne" width="50%"/>
-##### <i>Megaphragma mymaripenne</i>
+<b><i>Megaphragma mymaripenne</i></b>
 
 _Megaphragma_ is the smallest known trichogrammatid, being smaller than many single-celled organisms. Research conducted by Alexey Polilov indicates that nervous system in _Megaphragma_ is made up almost entirely of anucleate cells! Yet, they can fly and search for hosts capably.
 
 Most trichogrammatids are considerably smaller than adults of their host species. Multiple species are known to use a behavior known as phoresy, hitching a ride on another insect and leaving when a host egg is near.
 
 <img src="https://sfg.taxonworks.org/s/8o1tqe" alt="Hydrophylita emporos" width="100%"/>
+<b><i>Hydrophylita emporos</i></b>
 
 ## Photo credits
 

@@ -6,7 +6,7 @@ tags: egg parasitoid chalcid Chalcidoidea Hymenoptera
 authors: Roger Burks
 family: Trichogrammatidae
 distribution: worldwide 
-top_image: https://sfg.taxonworks.org/s/ly47ha
+top_image:
 card_image: https://sfg.taxonworks.org/s/8cxijp
 footer_image: 
 layout: taxon_page

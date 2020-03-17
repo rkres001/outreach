@@ -29,3 +29,4 @@ Aphelinidae contains 1385 species in 5 subfamlies: Coccophaginae (938 species in
 * [_Aphelinus abdominalis_ parasitizes a green peach aphid] (https://www.youtube.com/watch?v=RWxjB2nKi2U)
 * [_Eretmocerus eremicus_ oviposits into whitefly larva] (https://www.youtube.com/watch?v=A0CBFSpXhK8)
 * [_Coccophagus lycimnia_ emerging from scale inscect] (https://www.youtube.com/watch?v=xV5I3_Oqb6M)
+* [_Aphytis_ sp. ovipositing into a hard scale] (https://www.youtube.com/watch?v=T9D1xZQkUkE)

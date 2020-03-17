@@ -6,8 +6,8 @@ tags: scale parasitoid whitefly aphid Aphelinidae chalcid Chalcidoidea
 authors: Robert L. Kresslein
 family: Aphelinidae
 distribution: worldwide 
-top_image: 
-card_image: 
+top_image: https://sfg.taxonworks.org/s/7y53ce 
+card_image: https://sfg.taxonworks.org/s/rgz2ll 
 footer_image: 
 layout: taxon_page
 ---

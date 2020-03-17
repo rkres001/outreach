@@ -25,8 +25,8 @@ Species of Aphelinidae are widely used in classical biological control of major 
 Aphelinidae contains 1385 species in 5 subfamlies: Coccophaginae (938 species in 17 genera), Aphelininae (358 species in 21 genera), Eretmocerinae (85 species in one genus), Calesinae (14 species in one genus) and Eriaphytinae (two species in one genus). Recent advances in the phylogenetics of Aphelinidae have resulted in the exclusion of several genera from the family (_Ablerus_, _Euryischia_, _Euryischomyia_, _Myiocnema_, _Eunotiscus_, and _Promuscidea_). Ongoing analysis also indicates that Calesinae should also be excluded from Aphelinidae.  
 
 ## Links
-* [_Encarsia formosa_ ovipositing into a greenhouse whitefly larva] (https://www.youtube.com/watch?v=XZBGQBvvm-I)
-* [_Aphelinus abdominalis_ parasitizes a green peach aphid] (https://www.youtube.com/watch?v=RWxjB2nKi2U)
-* [_Eretmocerus eremicus_ oviposits into whitefly larva] (https://www.youtube.com/watch?v=A0CBFSpXhK8)
-* [_Coccophagus lycimnia_ emerging from scale inscect] (https://www.youtube.com/watch?v=xV5I3_Oqb6M)
-* [_Aphytis_ sp. ovipositing into a hard scale] (https://www.youtube.com/watch?v=T9D1xZQkUkE)
+* [_Encarsia formosa_ ovipositing into a greenhouse whitefly larva](https://www.youtube.com/watch?v=XZBGQBvvm-I)
+* [_Aphelinus abdominalis_ parasitizes a green peach aphid](https://www.youtube.com/watch?v=RWxjB2nKi2U)
+* [_Eretmocerus eremicus_ oviposits into whitefly larva](https://www.youtube.com/watch?v=A0CBFSpXhK8)
+* [_Coccophagus lycimnia_ emerging from scale inscect](https://www.youtube.com/watch?v=xV5I3_Oqb6M)
+* [_Aphytis_ sp. ovipositing into a hard scale](https://www.youtube.com/watch?v=T9D1xZQkUkE)

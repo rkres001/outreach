@@ -22,8 +22,9 @@ Unknown.
 
 # Links
 * [Leucospis female laying an egg in the nest of a mason bee](https://www.youtube.com/watch?v=xcMcXH0V7Qo)
+* [Leucospis female oviposits into a mason bee larvae](https://vimeo.com/137164873)
 * [Leucospis female locating larva and laying an egg](https://www.youtube.com/watch?v=sSwMS73BUpc)
-* [Leucospidea on Bug Guide](https://bugguide.net/node/view/16770/bgimage)
+* [Leucospidae on Bug Guide](https://bugguide.net/node/view/16770/bgimage)
 * [Leucospidae on iNaturalist](https://www.inaturalist.org/taxa/245000-Leucospidae)
 
 

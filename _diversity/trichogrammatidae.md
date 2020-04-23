@@ -29,6 +29,9 @@ Most trichogrammatids are considerably smaller than adults of their host species
 <img src="https://sfg.taxonworks.org/s/8o1tqe" alt="Hydrophylita emporos" width="50%"/><br>
 <b><i>Hydrophylita emporos</i>, phoretic on a damselfly</b>
 
+## Links
+* [_Trichogramma_ in slow-motion flight](https://www.youtube.com/watch?v=kZyIN23Cy4Y)
+
 ## Photo credits
 
 All photographs were available for re-use on Wikimedia Commons:<br>

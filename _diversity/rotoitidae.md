@@ -16,7 +16,7 @@ layout: taxon_page
 
 Rotoitidae are a small relictual family (only 2 genera) of parasitic wasps  proposed to be the sister to the rest of Chalcidoidea, after Mymaridae. Their actual biology remaing unknown. They are known from only two genera and two species that occur in New Zealand and Chile. This is a relict distribution of what was once a worldwide distribution that is known only from amber fossils distributed across the northern hemisphere (known as Laurasia), with the oldest fossil recently described from Burmese amber which is about 95 million years old! Of the two genera, Rotoita is fully winged and occurs across New Zealand in forested habitats, whereas Chiloe is small and wingless and found only in southern Chile and mostly on the island of Chile.
 
-![map of distribution](https://sfg.taxonworks.org/s/azuzvw)
+![map of distribution](https://sfg.taxonworks.org/s/8rpcdr)
 
 ## Biology 
 

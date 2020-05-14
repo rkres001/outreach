@@ -30,4 +30,4 @@ None known.
 ## Links
 
 * [_Chiloe micropteron_ jumping](https://www.youtube.com/watch?v=pBnwjW2Eg2A)
-* [Live _Chiloe micropteron_](https://www.youtube.com/watch?v=0FU64pcW-8Y)
+* [Live Chiloe micropteron](https://www.youtube.com/watch?v=0FU64pcW-8Y)

@@ -23,7 +23,8 @@ Adults are associated with Sphagnum moss but otherwise their biology is unknown.
 
 ## Economic Importance
 
-None.
+None known.
+
 
 ## Links
 

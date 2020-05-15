@@ -6,7 +6,7 @@ tags: parasitoid chalcid Eupelmidae Anastatus
 authors: Alejandra Rocha
 family: Eupelmidae
 distribution: worldwide 
-top_image: https://sfg.taxonworks.org/s/ewbnre
+top_image: 
 card_image: https://sfg.taxonworks.org/s/ewbnre
 layout: taxon_page
 ---

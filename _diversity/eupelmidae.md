@@ -23,7 +23,7 @@ Eupelmidae is a diverse family containing more than 900 species that can be foun
 
 Most are internal or external parasites of the immature stages of moths, butterflies, true bugs, beetles, lacewings, grasshoppers, cockroaches, gall midges, and other wasps. Some are egg parasites on eggs of spiders with the egg case; as they attack multiple eggs, they can be thought of as predators rather than parasites (figure E below). Other species are hyperparasites, parasites that attack a host that is also a parasite.
 
-![Orasema sp.](https://sfg.taxonworks.org/s/a256qn)
+<img src="https://sfg.taxonworks.org/s/a256qn" alt="(A)	_Anastatus_, (B) _Eupelmus_   _vesicularis_ female, (C) _Eupelmus_  _vesicularis_ male, (D) _Brasema_, (E) _Arachnophaga_, (F) _Metapelma_ _spectabile_" width="100%"/>
 ##### (A)	_Anastatus_, (B) _Eupelmus_   _vesicularis_ female, (C) _Eupelmus_  _vesicularis_ male, (D) _Brasema_, (E) _Arachnophaga_, (F) _Metapelma_ _spectabile_
 
 ## Morphology
@@ -34,7 +34,7 @@ Members of the subfamily Eupelminae have a unique jumping mechanism which is pow
 
 Species of Eupelmidae have been used as biological control agents of agricultural and forest pests. For example, _Anastatus_  _disparis_ is an egg parasitoid  used to control the  gypsy moth (_Lymantria_ _dispar_), one of the most destructive insects in the eastern United States. It can defoliate over one million acres of forest a year causing millions in damage. 
 
-![grid](https://sfg.taxonworks.org/s/zh1gcw) 
+<img src="https://sfg.taxonworks.org/s/zh1gcw" alt="_Lymantria_ _dispar_: (A) female (top) and male (bottom), (B) caterpillars feeding on leaves, (C) defoliated forest" width="100%"/>
 ##### _Lymantria_ _dispar_: (A) female (top) and male (bottom), (B) caterpillars feeding on leaves, (C) defoliated forest 
 
 ## Links

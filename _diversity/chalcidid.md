@@ -20,11 +20,11 @@ The Chalcididae are a moderately sized family within the Chalcidoidea that first
 
 ## Biology 
 
-The vast majority of wasps are parasitoids. Many parasitic wasps in inert stages of their host, such as the egg or pupa. In some cases, the parasitoid will parasitize its prey by injecting it with venom from its ovipositor. From there the eggs either enter the host’s body or remain on the surface until the parasitoid larvae mature. There are eight species of parasitic wasps that attack the gypsy moth. Both Ooencyrtus kuvanae and Anastatus disparis attack gypsy moth eggs. Apanteles melanoscelus and Phobocampe disparis parasitize the early larva stages while Brachymeria intermedia and Monodontomerus aureus parasitize the gypsy moth pupae.
+The vast majority of wasps are parasitoids. Many parasitic wasps in inert stages of their host, such as the egg or pupa. In some cases, the parasitoid will parasitize its prey by injecting it with venom from its ovipositor. From there the eggs either enter the host’s body or remain on the surface until the parasitoid larvae mature. There are eight species of parasitic wasps that attack the gypsy moth. Both _Ooencyrtus kuvanae_ and _Anastatus disparis_ attack gypsy moth eggs. Apanteles melanoscelus and Phobocampe disparis parasitize the early larva stages while Brachymeria intermedia and Monodontomerus aureus parasitize the gypsy moth pupae.
 
 ## Morphology
 ![Tegula](https://sfg.taxonworks.org/s/ujlc3p)
-#####_Brachymeria_ mesosoma lateral
+##### _Brachymeria_ mesosoma lateral
 
 The four main diagnostic features of the Chalcididae are: 
 Hind leg with femur swollen and ventral margin lined with one or more teeth. 

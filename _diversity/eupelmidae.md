@@ -16,7 +16,7 @@ layout: taxon_page
 
 ## Introduction
 
-Blah blah Eupelmidae is a diverse family containing more than 900 species that can be found around the world, with 119 of those species occurring in Canada and the United States. Members of this group have diverse life histories and currently are divided into 3 subfamilies Calostinae, Eupelminae, and Neanastatinae. While most Eupelmidae are tiny, the largest members of the genus _Metapelma_ can be up to 6 mm in body length (figure F below). Species vary in color from dull brown to brightly colored and even metallic.
+Blah blah BlH  Eupelmidae is a diverse family containing more than 900 species that can be found around the world, with 119 of those species occurring in Canada and the United States. Members of this group have diverse life histories and currently are divided into 3 subfamilies Calostinae, Eupelminae, and Neanastatinae. While most Eupelmidae are tiny, the largest members of the genus _Metapelma_ can be up to 6 mm in body length (figure F below). Species vary in color from dull brown to brightly colored and even metallic.
 
 
 ## Biology

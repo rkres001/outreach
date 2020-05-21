@@ -19,11 +19,13 @@ layout: taxon_page
 The Chalcididae are a moderately sized family within the Chalcidoidea that first appeared 50.3  million years ago. Currently, there are 85 genera and over 1400 species found all around the world. The species are placed into 5 subfamilies: Chalcidinae, Dirhininae, Epitraninae, Haltichellinae, Cratocentrinae and Smicromorphinae. Commonly mistaken as a “chalcid” the proper terminology for a member of the Chalcididae family is “chalcidid.” This family is mainly composed of parasitoids and hyperparasitoids. Chalcididae most commonly use members of the Lepidoptera and Diptera as their host, but some attack Hymenoptera, Coleoptera, and Neuroptera. Most Chalcidids are idiobionts, meaning that they oviposit into more or less fully grown hosts. In the case of parasitoids of Diptera, they oviposit into mature larva. In the case of parasitoids of Lepidoptera, they oviposit into young pupae. Females that oviposit into an antlion larva use their hind legs to hold open the massive jaws of the antlion while they lay their egg into the back of their head! 
 
 ## Biology 
-![Tegula](https://sfg.taxonworks.org/s/ujlc3p)
-#####_Brachymeria_ mesosoma lateral 
+
 The vast majority of wasps are parasitoids. Many parasitic wasps in inert stages of their host, such as the egg or pupa. In some cases, the parasitoid will parasitize its prey by injecting it with venom from its ovipositor. From there the eggs either enter the host’s body or remain on the surface until the parasitoid larvae mature. There are eight species of parasitic wasps that attack the gypsy moth. Both Ooencyrtus kuvanae and Anastatus disparis attack gypsy moth eggs. Apanteles melanoscelus and Phobocampe disparis parasitize the early larva stages while Brachymeria intermedia and Monodontomerus aureus parasitize the gypsy moth pupae.
 
 ## Morphology
+![Tegula](https://sfg.taxonworks.org/s/ujlc3p)
+#####_Brachymeria_ mesosoma lateral
+
 The four main diagnostic features of the Chalcididae are: 
 Hind leg with femur swollen and ventral margin lined with one or more teeth. 
 Prepectus narrow or indistinguishable.

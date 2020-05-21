@@ -23,7 +23,7 @@ Eupelmidae is a diverse family containing more than 900 species that can be foun
 
 Most are internal or external parasites of the immature stages of moths, butterflies, true bugs, beetles, lacewings, grasshoppers, cockroaches, gall midges, and other wasps. Some are egg parasites on eggs of spiders with the egg case; as they attack multiple eggs, they can be thought of as predators rather than parasites (figure E below). Other species are hyperparasites, parasites that attack a host that is also a parasite.
 
-![Orasema sp.](https://sfg.taxonworks.org/s/a256qn)
+![Orasema sp.](https://sfg.taxonworks.org/s/xtkwj7)
 ##### (A)	_Anastatus_, (B) _Eupelmus_   _vesicularis_ female, (C) _Eupelmus_  _vesicularis_ male, (D) _Brasema_, (E) _Arachnophaga_, (F) _Metapelma_ _spectabile_
 
 ## Morphology

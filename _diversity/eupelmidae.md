@@ -6,12 +6,12 @@ tags: parasitoid chalcid Eupelmidae Anastatus Metapelma
 authors: Alejandra Rocha
 family: Eupelmidae
 distribution: worldwide 
-top_image:
+top_image:https://sfg.taxonworks.org/s/ewbnre
 card_image: https://sfg.taxonworks.org/s/ewbnre
 layout: taxon_page
 ---
 
-![_Anastatus_ sp. ovipositing into a stink bug egg. Photo by Alexander Wild](https://sfg.taxonworks.org/s/ewbnre)
+
 ##### _Anastatus_ sp. ovipositing into a stink bug egg. Photo by Alexander Wild
 
 ## Introduction
